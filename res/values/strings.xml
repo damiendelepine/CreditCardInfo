@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CreditCard Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Posez votre carte bancaire au dos de cet appareil.</string>
+    
+    <string name="bank">Banque :</string>
+    <string name="numero">Numéro de carte :</string>
+    <string name="date">Date d\'expiration :</string>
+    <string name="edittext">Cryptogramme :</string>
+    <string name="cryptogramme">Ex : 854</string>
+    <string name="button">Valider</string>
+
+</resources>
